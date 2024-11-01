@@ -1,0 +1,11 @@
+.idea
+*.iml
+*.xml
+out
+gen
+!/.idea/
+*.class
+target/
+*.log
+
+/lib/dll/

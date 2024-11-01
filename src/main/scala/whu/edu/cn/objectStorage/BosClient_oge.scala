@@ -7,8 +7,8 @@ import com.baidubce.services.bos.{BosClient, BosClientConfiguration}
 import java.io.{File, InputStream}
 
 class BosClient_oge(endPoint: String) extends ObjectStorageClient {
-  val ACCESS_KEY_ID = "ALTAKetCGvRVdSsIa1C9CR81Cm"
-  val SECRET_ACCESS_ID = "45624b0ae0c94c66877f75c6219b25f7"
+  val ACCESS_KEY_ID = ""
+  val SECRET_ACCESS_ID = ""
   val client = getClient
 
   private def getClient = {

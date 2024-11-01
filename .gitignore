@@ -1,6 +1,5 @@
 .idea
 *.iml
-*.xml
 out
 gen
 !/.idea/
@@ -9,3 +8,5 @@ target/
 *.log
 
 /lib/dll/
+/on-the-fly/
+/test-data/
